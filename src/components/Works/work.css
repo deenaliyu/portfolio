@@ -36,3 +36,9 @@
         height: 100%;
     }
 }
+@media(max-width:380px){
+    .mywork-cont img{
+        width: 120%;
+        height: 120%;
+    }
+}

@@ -17,8 +17,6 @@ const about = () => {
                         <p>
                         Hi, I'm Aliyu Nurudeen, a passionate Software engineer with a knack for building efficient, scalable, and user-friendly applications. With a strong foundation in computer science and a keen eye for detail, I excel in both front-end and back-end development. 
                         </p>
-
-                        <small>Feel free to adjust it to fit your style and preferences! Remember to keep it concise, clear, and professional, showcasing your expertise and experience in a way that resonates with potential clients or employers.</small>
                     </div>
                     <div className="about-skills">
                         <div className="about-skill">
