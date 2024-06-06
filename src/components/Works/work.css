@@ -1,0 +1,38 @@
+.mywork{
+    display: grid;
+    justify-content: center;
+    gap: 40px;
+    align-items: center;
+}
+.mywork-cont{
+    display: grid;
+    gap: 40px;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.mywork-cont img{
+    width: 380px;
+    height: 300px;
+}
+.mywork-title{
+    text-align: center;
+}
+@media(max-width:800px){
+    .mywork{
+        align-items: start;
+        gap: 50px;
+        margin: 50px 70px;
+    }
+    .mywork-title h1{
+        padding: 0;
+        font-size: 50px;
+        font-weight: 600;
+    }
+    .mywork-cont{
+        grid-template-columns: 1fr 1fr;
+        gap: 30px;
+    }
+    .mywork-cont img{
+        width: 100%;
+        height: 100%;
+    }
+}
