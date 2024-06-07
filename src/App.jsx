@@ -8,7 +8,7 @@ import Contact from './components/Contact/contact'
 import Footer from './components/Footer/footer'
 function App() {
   return (
-    <div>
+    <div style={{padding:"30px"}}>
       <Navbar />
       <Hero />
       <About />
