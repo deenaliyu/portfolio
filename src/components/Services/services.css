@@ -82,7 +82,7 @@
 }
 @media(max-width:450px){
     .service-container{
-        grid-template-columns:1fr 1fr;
+        grid-template-columns:1fr;
     }
     .service-format{
         width: 120px;

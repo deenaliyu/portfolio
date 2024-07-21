@@ -3,12 +3,12 @@ const Services_data = [
     {
         s_no:"01",
         s_name:"Frontend",
-        s_desc:"Html and Css, JavaScript, Responsive Web Design, React js, Vue.js and UI/UX design."
+        s_desc:"Html and Css, JavaScript, Responsive Web Design, React js, Next js"
     },
     {
         s_no:"02",
         s_name:"Backend",
-        s_desc:"Node.js, Express.jsRuby on Rails, Python, API Design and Development, RESTful APIs and GraphQL."
+        s_desc:"Php, Node.js, API Design and Development, RESTful APIs and GraphQL."
     },
     {
         s_no:"03",
@@ -18,7 +18,7 @@ const Services_data = [
     {
         s_no:"04",
         s_name:"DevOps and Deployment",
-        s_desc:"Git and Github, Continous integration(CI) and Continous Deployment(CD), Kubernates and Orchestration."
+        s_desc:"Git and Github, Continous integration(CI) and Continous Deployment(CD)."
     },
     {
         s_no:"05",
@@ -28,7 +28,7 @@ const Services_data = [
     {
         s_no:"06",
         s_name:"Testing and Quality Assurance",
-        s_desc:"Unit testing, integration testing,End-End testing, UI testing, Api testing, security and performance testing."
+        s_desc:"Unit testing, integration testing, End-End testing, UI testing, Api testing, security and performance testing."
     },
 
 ]

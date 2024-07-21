@@ -15,7 +15,7 @@ const about = () => {
                 <div className="about-right">
                     <div className="about-para">
                         <p>
-                        Hi, I'm Aliyu Nurudeen, a passionate Software engineer with a knack for building efficient, scalable, and user-friendly applications. With a strong foundation in computer science and a keen eye for detail, I excel in both front-end and back-end development. 
+                        Hi, I'm Aliyu Nurudeen, a passionate Software Developer dedicated to building efficient, scalable, and user-friendly applications. With a solid foundation in computer science and a keen eye for detail, I excel in both front-end and back-end development.
                         </p>
                     </div>
                     <div className="about-skills">
