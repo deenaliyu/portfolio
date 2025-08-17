@@ -1,7 +1,7 @@
 import React from 'react'
 import './hero.css'
 import profile_img from '../../assets/profile_img.jpg'
-import Aliyu_resume from '../../assets/Aliyu_resume.pdf'
+import Aliyu_resume from '../../assets/Aliyu-Nurudeen-Web-dev.pdf'
 
 
 const hero = () => {

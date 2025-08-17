@@ -47,7 +47,7 @@
     padding: 12px 20px;
     border-radius: 50px;
     cursor: pointer;
-    background: linear-gradient(267deg, green 0.36%, blue 102.4%);
+    background: #695DD8;
     font-size: 20px;
     transition: 0.6s;
 }
@@ -107,7 +107,7 @@
         gap: 20px;
     }
     .nav-menu li:hover{
-        background: linear-gradient(267deg, green 0.36%, blue 102.4%);
+        background: #181626;
         background-clip: text;
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;

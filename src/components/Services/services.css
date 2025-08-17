@@ -30,7 +30,7 @@
     text-wrap: wrap;
 }
 .service-format h2{
-    background: linear-gradient(267deg, green 0.36%, blue 102.4%);
+    background: #695DD8;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; 
@@ -44,7 +44,7 @@
 .service-format:hover{
     transform: scale(1.1);
     transition: 0.7s;
-    border:2px solid green;
+    border:2px solid #695DD8;
     background: rgba(0, 0, 255, 0.136);
 }
 .service-format h3{

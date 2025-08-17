@@ -20,10 +20,10 @@ const about = () => {
                     </div>
                     <div className="about-skills">
                         <div className="about-skill">
-                            <p>FRONTEND</p><hr style={{ width: "60%" }} />
+                            <p>FRONTEND</p><hr style={{ width: "80%" }} />
                         </div>
                         <div className="about-skill">
-                            <p>BACKEND</p><hr style={{ width: "90%" }} />
+                            <p>BACKEND</p><hr style={{ width: "50%" }} />
                         </div>
                         <div className="about-skill">
                             <p>DATABASES</p><hr style={{ width: "65%" }} />

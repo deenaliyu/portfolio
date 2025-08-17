@@ -1,3 +1,4 @@
+// work.jsx
 import React from 'react'
 import './work.css'
 import mywork_data from '../../assets/mywork_data'
@@ -10,7 +11,11 @@ const work = () => {
       </div>
       <div className="mywork-cont">
         {mywork_data.map((work,index)=>{
-          return <img key={index} src={work.w_img} alt="" />
+          return (
+            <a key={index} href={work.w_link} target="_blank" rel="noopener noreferrer">
+              <img src={work.w_img} alt={work.w_name} />
+            </a>
+          )
         })}
       </div>
     </div>

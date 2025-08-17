@@ -19,7 +19,7 @@
 .contact-left h1{
     font-size: 50px;
     font-weight: 500;
-    background: linear-gradient(267deg, green 0.36%, blue 102.4%);
+    background: #695DD8;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -83,7 +83,7 @@
     height: 40px;
     padding-left: 20px;
     border-radius: 4px;
-    background: rgb(26, 26, 26);
+    background: #181626;
     color: whitesmoke;
     font-size: 18px;
 }
@@ -93,7 +93,7 @@
     border: none;
     padding: 25px;
     border-radius: 4px;
-    background: rgb(26, 26, 26);
+    background: #181626;
     color: whitesmoke;
     font-size: 18px;
     font-family: "Poetsen One", sans-serif;
@@ -103,7 +103,7 @@
     border-radius: 16px;
     width: 180px;
     border: none;
-    background: linear-gradient(267deg, green 0.36%, blue 102.4%);
+    background: #695DD8;
     color: whitesmoke;
     font-family: "Poetsen One", sans-serif;
     transition: 0.5s;

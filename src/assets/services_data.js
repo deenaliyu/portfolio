@@ -28,7 +28,7 @@ const Services_data = [
     {
         s_no:"06",
         s_name:"Testing and Quality Assurance",
-        s_desc:"Unit testing, integration testing, End-End testing, UI testing, Api testing, security and performance testing."
+        s_desc:"Unit testing, integration testing, End-End testing, Api testing and security."
     },
 
 ]

@@ -55,7 +55,7 @@
     width: 50%;
     height: 8px;
     border-radius: 50px;
-    background: linear-gradient(267deg, green 0.36%, blue 102.4%);
+    background: #695DD8;
 }
 
 .about-achvs {
@@ -74,7 +74,7 @@
 }
 
 .about-achv h1 {
-    background: linear-gradient(267deg, green 0.36%, blue 102.4%);
+    background: #695DD8;
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;

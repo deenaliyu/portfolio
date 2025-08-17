@@ -20,7 +20,7 @@ const footer = () => {
             </div>
             <hr />
             <div className="downleft">
-                <p>© 2024 Aliyu Nurudeen. All right reserved.</p>
+                <p>© 2025 Aliyu Nurudeen. All right reserved.</p>
                 <div className="hey">
                     <p>Terms of services</p>
                     <p>Privacy policy</p>

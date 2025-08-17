@@ -43,11 +43,11 @@ const contact = () => {
                     </div>
                     <div className="contact-detail2 contact-detail">
                     <img src={phone} alt="" />
-                        <p>08162248564</p>
+                        <p>07551113849</p>
                     </div>
                     <div className="contact-detail3 contact-detail">
                         <img src={location} alt="" />
-                         <p>Kano, Nigeria</p>
+                         <p>Bristol, United Kingdom</p>
                     </div>
                 </div>
             </div>
